@@ -23,7 +23,7 @@ To install Jarvis, follow these steps:
 After installation, you need to configure Jarvis by setting up your API credentials and password. Follow these steps:
 
 1. Open the `api.txt` file in the `jarvis` directory.
-2. Replace the `API_KEY` and `API_ENDPOINT` placeholders with your actual OpenAI API key and endpoint, respectively.
+2. Replace the `API_KEY` with your actual OpenAI API key 
 3. Save and close the `api.txt` file.
 
 Next, you need to change the default password for Jarvis. Follow these steps:
