@@ -43,7 +43,7 @@ Once you have configured Jarvis, you can start using it by running the `jarvis.p
 3. Jarvis will prompt you to enter the password that you set in the `password.txt` file.
 4. After entering the correct password, you can start interacting with Jarvis using the command line interface.
 
-Jarvis can perform a variety of tasks, such as generating text, answering questions, providing information, taking screenshots, sending WhatsApp messages, telling jokes, sending emails, flipping a coin, remembering things, playing YouTube videos, performing Google searches, Wikipedia searches, and much more. You can communicate with Jarvis by typing commands or questions in the terminal, and Jarvis will respond accordingly.
+Jarvis can perform a variety of tasks, such as generating text, answering questions, providing information, taking screenshots, sending WhatsApp messages, telling jokes, sending emails, flipping a coin, remembering things, playing YouTube videos, performing Google searches, Wikipedia searches, and much more. You can communicate with Jarvis by speaking commands or questions using mic, and Jarvis will respond accordingly.
 
 Contributing
 
