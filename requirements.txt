@@ -1,0 +1,16 @@
+pyttsx3
+speech_recognition
+smtplib
+pyautogui
+webbrowser
+wikipedia
+requests
+openai
+dotenv
+pywhatkit
+pyjokes
+googletrans
+nltk
+speedtest
+matplotlib
+pynput
