@@ -1,0 +1,5 @@
+senderEmail = ''
+epwd = ''
+to = ''
+
+
